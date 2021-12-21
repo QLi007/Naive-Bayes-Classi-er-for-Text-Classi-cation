@@ -1,2 +1,2 @@
-# Naive-Bayes-Classi-er-for-Text-Classi-cation
+# Naive-Bayes-Classier-for-Text-Classication
 ComS 573 Machine Learning
